@@ -1,0 +1,10 @@
+efficientnet
+numpy
+tensorflow
+pandas
+h5py
+IPython
+matplotlib
+tensorflow_addons.metrics
+sklearn
+kaggle_datasets

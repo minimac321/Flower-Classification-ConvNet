@@ -52,14 +52,14 @@ e.g. [3].
 
 ## Final Predictions
 
-The final model used is an ensemble of DenseNet and EfficientNet with a final score of 0.95756 
+The final model used is an ensemble of DenseNet and EfficientNet with a final score of **0.95756** 
 which places me in the top 15 of the leaderboards.
 
 My leaderboard scores are:
 
-
-| Score                 | Date (version) | Notes                                                          |
-|-----------------------|----------|----------------------------------------------------------------|
-| 0.76018               | 23-10-22 | ResNet50V2 wih no regularisation                               | 
-| 0.83895               | 26-10-22 | ResNet50V2 with dropout of 0.1038                              | 
-| **0.95756**           | 31-10-22 | Ensemble of EfficientNet and DenseNet (No Regularization)      | 
+| Score                 | Date (version) | Notes                                                     |
+|-----------------------|----------------|-----------------------------------------------------------|
+| 0.76018               | 23-10-22       | ResNet50V2 wih no regularisation                          | 
+| 0.83895               | 26-10-22       | ResNet50V2 with dropout of 0.1038                         | 
+| **0.95756**           | 31-10-22       | Ensemble of EfficientNet and DenseNet (No Regularization) | 
+| 0.95557          | 01-11-22       | Ensemble of EfficientNet and DenseNet (With Regularization)  | 
